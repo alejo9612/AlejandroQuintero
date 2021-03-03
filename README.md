@@ -1,6 +1,7 @@
 # Console.log('Hello Word!! ✌');
 
-##Ingresar y ver el CV
+##CV
+
 Soy una persona responsable y autodicata que ofrece su conocimiento en las herramienta de desarrollo que conoce; así mismo busco afianzar los conocimientos y aprender mucho más de los diferentes framework para desarrollar.
 
 Conociminetos:
